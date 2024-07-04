@@ -51,6 +51,7 @@ Soy un desarrollador apasionado por la tecnología y la programación, siempre e
 
 [![8-bits](https://github-readme-stats.vercel.app/api/pin/?username=agustincomolli&repo=8-bits&theme=dark)](https://github.com/agustincomolli/8-bits)
 [![8-bits backend](https://github-readme-stats.vercel.app/api/pin/?username=agustincomolli&repo=8-bits-backend&theme=dark)](https://github.com/agustincomolli/8-bits-backend)
+[![My Modern Dark Theme](https://github-readme-stats.vercel.app/api/pin/?username=agustincomolli&repo=my-theme-dark&theme=dark)](https://github.com/agustincomolli/my-theme-dark)
 [![Invasión Alienígena](https://github-readme-stats.vercel.app/api/pin/?username=agustincomolli&repo=alien-invasion&theme=dark)](https://github.com/agustincomolli/alien-invasion)
 
 </div>
