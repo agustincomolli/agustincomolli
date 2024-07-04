@@ -58,9 +58,10 @@ Soy un desarrollador apasionado por la tecnología y la programación, siempre e
 
 ### Descripción de Proyectos
 
-1. **Invasión Alienígena**: Un emocionante juego de arcade desarrollado en Python, donde defiendes la Tierra de una invasión extraterrestre.
-2. **8-bits**: Este es el repositorio del proyecto para el desarrollo del sitio web de 8-bits, una empresa especializada en brindar soporte técnico integral en computadoras.
-3. **8-bits backend**: API de backend construida con Python y Flask, implementando Flask-SQLAlchemy como ORM para la gestión de una base de datos MySQL.
+1. **8-bits**: Este es el repositorio del proyecto para el desarrollo del sitio web de 8-bits, una empresa especializada en brindar soporte técnico integral en computadoras.
+2. **8-bits backend**: API de backend construida con Python y Flask, implementando Flask-SQLAlchemy como ORM para la gestión de una base de datos MySQL.
+3. **Invasión Alienígena**: Un emocionante juego de arcade desarrollado en Python, donde defiendes la Tierra de una invasión extraterrestre.
+4. **My Modern Dark Theme**: Tema de color para usar en Visual Studio Code.
 
 ---
 
