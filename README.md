@@ -1,17 +1,5 @@
-# 👋 ¡Hola! Soy Agustín Comolli
-
 <div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-    ¡Hola! Soy Agustín Comolli
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  
-  <h3>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-    Desarrollador Full Stack | Apasionado por la Tecnología | Siempre Aprendiendo
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  </h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👋¡Hola!%20Soy%20Agustín%20Comolli&desc=Desarrollador%20Full%20Stack%20|%20Apasionado%20por%20la%20Tecnología%20|%20Siempre%20Aprendiendo&descAlignY=55&textBg=false&fontSize=50&fontAlign=50&fontAlignY=35&descSize=22"/>
 </div>
 
 <div align="center">
